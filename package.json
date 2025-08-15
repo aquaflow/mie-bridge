@@ -1,6 +1,8 @@
 {
   "name": "mie-bridge",
   "version": "1.0.0",
+  "description": "Bridge server connecting Alexa skill to MIE",
+  "license": "MIT",
   "type": "module",
   "main": "server.js",
   "scripts": {
